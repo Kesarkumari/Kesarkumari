@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kesar Kumari</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | DSA Enthusiast</h3>
 
 <p align="center">
 I build scalable, user-friendly web applications with clean UI and efficient backend systems.
-Focused on writing maintainable code and solving real-world problems.
+Strong in Data Structures & Algorithms with consistent problem-solving practice on LeetCode.
 </p>
 
 ---
@@ -19,11 +19,22 @@ Focused on writing maintainable code and solving real-world problems.
 <h3>💼 What I Bring</h3>
 
 <ul>
-<li>Strong foundation in Data Structures & Algorithms</li>
-<li>Hands-on experience with full-stack (MERN) projects</li>
+<li>Strong understanding of Data Structures & Algorithms</li>
+<li>Consistent problem-solving on LeetCode</li>
+<li>Hands-on experience with MERN stack projects</li>
 <li>Ability to build responsive and optimized web apps</li>
-<li>Understanding of REST APIs, databases & deployment</li>
+<li>Experience with APIs, databases & backend logic</li>
 </ul>
+
+---
+
+<h3>📊 DSA & Coding Profile</h3>
+
+<p>
+<a href="https://leetcode.com/u/kesar_kumari/">
+<img src="https://leetcard.jacoblin.cool/kesar_kumari?theme=dark&font=Karma" />
+</a>
+</p>
 
 ---
 
@@ -40,7 +51,7 @@ Focused on writing maintainable code and solving real-world problems.
 <h3>📈 Current Focus</h3>
 
 <p>
-Improving backend architecture, mastering DSA, and preparing for software development roles.
+Improving backend systems, strengthening DSA, and preparing for software development roles.
 </p>
 
 ---
