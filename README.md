@@ -3,7 +3,7 @@
 
 <p align="center">
 I build scalable, user-friendly web applications with clean UI and efficient backend systems.
-Strong in Data Structures & Algorithms with consistent problem-solving practice on LeetCode.
+Strong in Data Structures & Algorithms with consistent problem-solving practice.
 </p>
 
 ---
@@ -28,11 +28,11 @@ Strong in Data Structures & Algorithms with consistent problem-solving practice 
 
 ---
 
-<h3>📊 DSA & Coding Profile</h3>
+<h3>📊 Coding Profile</h3>
 
 <p>
 <a href="https://leetcode.com/u/kesar_kumari/">
-<img src="https://leetcard.jacoblin.cool/kesar_kumari?theme=dark&font=Karma" />
+🔗 View my LeetCode profile
 </a>
 </p>
 
