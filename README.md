@@ -31,8 +31,14 @@ Strong in Data Structures & Algorithms with consistent problem-solving practice.
 <h3>📊 Coding Profile</h3>
 
 <p>
-<a href="https://leetcode.com/u/kesar_kumari/">
-🔗 View my LeetCode profile
+<a href="https://leetcode.com/u/kesar_kumari/" target="_blank">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+</p>
+
+<p>
+<a href="https://leetcode.com/u/kesar_kumari/" target="_blank">
+🔗 Visit my LeetCode Profile
 </a>
 </p>
 
